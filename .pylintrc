@@ -1,0 +1,4 @@
+[main conf]
+indent-string="    "
+indent-after-paren=4
+max-line-length=120
